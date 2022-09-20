@@ -1,0 +1,4 @@
+com\mycompany\myapp\resources\JavaEE8Resource.class
+com\mycompany\myapp\JAXRSConfiguration.class
+com\mycompany\myapp\Model\Controller\ItemController.class
+com\mycompany\myapp\Model\Item.class
